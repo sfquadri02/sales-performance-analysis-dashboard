@@ -5,6 +5,12 @@ Power BI dashboard analyzing sales performance and trends
 This project analyzes sales performance data using Power BI Desktop to track
 revenue trends, category performance, and overall business metrics.
 
+## Dataset
+- Source: Kaggle – Sample Superstore Dataset
+- Link: https://www.kaggle.com/datasets/konstantinognev/sample-superstorecsv
+- Format: CSV
+- Description: Sales transaction data including order details, product categories, regions, and revenue used to analyze sales performance and trends
+
 ## Business Questions Addressed
 - How is sales performance trending over time?
 - Which product categories contribute the most to revenue?
